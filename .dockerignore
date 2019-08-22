@@ -1,0 +1,7 @@
+node_modules
+var/cache/*
+var/log/*
+public/media/*
+public/build/*
+vendor/
+Dockerfile
